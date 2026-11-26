@@ -1,0 +1,18 @@
+{
+  "plugins":[{
+    "apiVersion":"1.0",
+    "package":"internet-archive-1.ppp",
+    "sha256":"2ea183b80e3fba876657fb633e698505dce5096cbdb9cf55d2bf6196e3a90cff",
+    "signature":"d+N70G59NofH7v6Pd7rtrJz7LEjwlO5cPkApF94ehAv7PnY1UTdTD+NjCHoa+7yC/ugKwnQCiAv6Aj4TpeK/Cg==",
+    "nsfw":false,
+    "pluginId":"org.pipepipe.plugin.internetarchive",
+    "author":"PipePipe Community",
+    "name":"Internet Archive",
+    "description":"Discover, search, browse collections, and stream public-domain and freely accessible videos hosted on the Internet Archive (archive.org).",
+    "publicKey":"DhZzmnjGRKVv80/SAGyIGmR8DuTkeaBhKTbCUTTUidI=",
+    "versionName":"1.0.0",
+    "versionCode":1
+  }],
+  "name":"Internet Archive PipePipe Plugin Repository",
+  "formatVersion":1
+}
